@@ -1,15 +1,9 @@
 streamlit
 pandas
 numpy
-<<<<<<< HEAD
 matplotlib
 scikit-learn
 statsmodels
 protobuf
 plotly
-=======
-scikit-learn
-matplotlib
 yfinance
-statsmodels
->>>>>>> 6d692cd318bc52da8c8f24513adeb33b75d4cd32
